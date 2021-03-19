@@ -4,6 +4,6 @@ Made During industrial training in webskitters Technology solutions in 6th semes
 
 An java appplication for maintaining the student database of a school
 
-Main Framework used- Java Swing
+Main Framework used- Java Swing  MySQL
 
 Project Submission date: July 2019
